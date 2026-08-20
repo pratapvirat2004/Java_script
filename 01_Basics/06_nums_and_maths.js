@@ -10,3 +10,14 @@ console.log(number.toFixed(2))
 const otherNumber=1323.3474
 console.log(otherNumber.toPrecision(7))
 
+
+
+
+
+
+const min= 10
+const max= 20
+
+
+
+console.log(Math.floor(Math.random()* (max-min +1))+min)
